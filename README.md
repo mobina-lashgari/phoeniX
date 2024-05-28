@@ -2,9 +2,9 @@ Computer Organization - Spring 2024 - IUST
 ==============================================================
 ## Assembly Assignment 1
 
-- Student Name : Mohammadreza Piri Sangdeh
-- Team Members: Mobina Lashgari - Sara Dadashi
-- Student ID: 99411218
+- Student Name : Mobina Lashgari
+- Team Members: Mohammadreza Piri Sangdeh - Sara Dadashi
+- Student ID: 99413001
 - Date: 2024/05/24
 
 ## Part One
